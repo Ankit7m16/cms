@@ -79,6 +79,7 @@ async function seedCourses() {
       openToEveryone: false,
       slug: 'test-course-2',
     },
+    // asas
     {
       id: 5,
       appxCourseId: '2',
